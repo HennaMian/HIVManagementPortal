@@ -1,5 +1,7 @@
 # Technical Details
 
+Video demo: https://www.youtube.com/watch?v=jFC3GPJ9rMs
+
 ## Primary Dependencies
 
  - node: v18.12.1
